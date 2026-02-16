@@ -1,0 +1,706 @@
+0000.001 (0) Opened log file at time: Mon, 16 Feb 2026 11:42:37 +0000 on http://la-vie-des-plantes.local
+0000.006 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.26.1 WP: 6.9.1 PHP: 8.2.27 (cgi-fcgi, Windows NT DESKTOP-LTT1O4O 10.0 build 19045 (Windows 10) AMD64) MySQL: 8.0.35 (max packet size=1073741824) WPLANG: fr_FR Server: nginx/1.26.1 safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 15.1M | 18M) multisite: N openssl: OpenSSL 3.0.15 3 Sep 2024 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.033 (0) Free space on disk containing Updraft's temporary directory: 11300 MB
+0000.052 (0) Tasks: Backup files: 1 (schedule: unset) Backup DB: 1 (schedule: unset)
+0000.067 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.109 (0) Set semaphore last lock (fd) time to 2026-02-16 11:42:37
+0000.116 (0) Semaphore lock (fd) complete
+0000.429 (0) Backup run: resumption=0, nonce=f1922c68d8f6, file_nonce=f1922c68d8f6 begun at=1771242157 (0s ago), job type=backup
+0000.437 (0) Scheduling a resumption (1) after 576 seconds (1771242733) in case this run gets aborted
+0000.550 (0) Checking if we have a zip executable available
+0000.562 (0) Creation of backups of directories: beginning
+0000.700 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0047.026 (0) Total entities for the zip file: 2900 directories, 16588 files (0 skipped as non-modified), 196.5 MB
+0047.049 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0047.491 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 100 files added (on-disk size: 535.1 KB)
+0047.582 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 200 files added (on-disk size: 535.1 KB)
+0047.701 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 300 files added (on-disk size: 535.1 KB)
+0047.822 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 400 files added (on-disk size: 535.1 KB)
+0047.947 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 500 files added (on-disk size: 535.1 KB)
+0048.058 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 600 files added (on-disk size: 535.1 KB)
+0048.178 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 700 files added (on-disk size: 535.1 KB)
+0048.271 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 800 files added (on-disk size: 535.1 KB)
+0048.391 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 900 files added (on-disk size: 535.1 KB)
+0048.490 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 1000 files added (on-disk size: 535.1 KB)
+0048.496 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.2 MB, 16588 files batched, 1001 (1002) added so far); re-opening (prior size: 535.1 KB)
+0171.780 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 1100 files added (on-disk size: 4857.7 KB)
+0171.903 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 1200 files added (on-disk size: 4857.7 KB)
+0172.048 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 1300 files added (on-disk size: 4857.7 KB)
+0172.149 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 1400 files added (on-disk size: 4857.7 KB)
+0172.215 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25.5 MB, 16588 files batched, 458 (1460) added so far); re-opening (prior size: 4857.7 KB)
+0194.708 (0) A useful amount of data was added after this amount of zip processing: 23.7 s (normalised: 23.3 s, rate: 1097.8 KB/s)
+0194.842 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 1500 files added (on-disk size: 10445.1 KB)
+0194.979 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 1600 files added (on-disk size: 10445.1 KB)
+0195.128 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 1700 files added (on-disk size: 10445.1 KB)
+0195.269 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 1800 files added (on-disk size: 10445.1 KB)
+0195.396 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 1900 files added (on-disk size: 10445.1 KB)
+0195.519 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 2000 files added (on-disk size: 10445.1 KB)
+0195.567 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 16588 files batched, 573 (2033) added so far); re-opening (prior size: 10445.1 KB)
+0229.391 (0) A useful amount of data was added after this amount of zip processing: 35.4 s (normalised: 35.4 s, rate: 723.1 KB/s)
+0229.640 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 2100 files added (on-disk size: 16948.4 KB)
+0229.760 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 2200 files added (on-disk size: 16948.4 KB)
+0229.896 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 2300 files added (on-disk size: 16948.4 KB)
+0230.005 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 2400 files added (on-disk size: 16948.4 KB)
+0230.112 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 2500 files added (on-disk size: 16948.4 KB)
+0230.220 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 2600 files added (on-disk size: 16948.4 KB)
+0230.360 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 2700 files added (on-disk size: 16948.4 KB)
+0230.477 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 2800 files added (on-disk size: 16948.4 KB)
+0230.588 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 2900 files added (on-disk size: 16948.4 KB)
+0230.704 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 3000 files added (on-disk size: 16948.4 KB)
+0230.755 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.7 MB, 16588 files batched, 1001 (3034) added so far); re-opening (prior size: 16948.4 KB)
+0306.997 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 3100 files added (on-disk size: 21203.1 KB)
+0307.102 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 3200 files added (on-disk size: 21203.1 KB)
+0307.216 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 3300 files added (on-disk size: 21203.1 KB)
+0307.316 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 3400 files added (on-disk size: 21203.1 KB)
+0307.431 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 3500 files added (on-disk size: 21203.1 KB)
+0307.541 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 3600 files added (on-disk size: 21203.1 KB)
+0307.663 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 3700 files added (on-disk size: 21203.1 KB)
+0307.778 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 3800 files added (on-disk size: 21203.1 KB)
+0307.917 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 3900 files added (on-disk size: 21203.1 KB)
+0308.059 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 4000 files added (on-disk size: 21203.1 KB)
+0308.105 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.8 MB, 16588 files batched, 1001 (4035) added so far); re-opening (prior size: 21203.1 KB)
+0354.180 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 4100 files added (on-disk size: 27236.8 KB)
+0354.336 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 4200 files added (on-disk size: 27236.8 KB)
+0354.502 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 4300 files added (on-disk size: 27236.8 KB)
+0354.679 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 4400 files added (on-disk size: 27236.8 KB)
+0354.844 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 4500 files added (on-disk size: 27236.8 KB)
+0355.000 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 4600 files added (on-disk size: 27236.8 KB)
+0355.160 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 4700 files added (on-disk size: 27236.8 KB)
+0355.328 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 4800 files added (on-disk size: 27236.8 KB)
+0355.499 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 4900 files added (on-disk size: 27236.8 KB)
+0355.659 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 5000 files added (on-disk size: 27236.8 KB)
+0355.716 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16.4 MB, 16588 files batched, 1001 (5036) added so far); re-opening (prior size: 27236.8 KB)
+0419.666 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 5100 files added (on-disk size: 32060 KB)
+0419.847 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 5200 files added (on-disk size: 32060 KB)
+0420.019 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 5300 files added (on-disk size: 32060 KB)
+0420.177 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 5400 files added (on-disk size: 32060 KB)
+0420.627 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 5500 files added (on-disk size: 32060 KB)
+0420.890 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 5600 files added (on-disk size: 32060 KB)
+0421.085 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 5700 files added (on-disk size: 32060 KB)
+0421.220 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 5800 files added (on-disk size: 32060 KB)
+0421.375 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 5900 files added (on-disk size: 32060 KB)
+0421.512 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 6000 files added (on-disk size: 32060 KB)
+0421.570 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.4 MB, 16588 files batched, 1001 (6037) added so far); re-opening (prior size: 32060 KB)
+0457.292 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 6100 files added (on-disk size: 34978.6 KB)
+0457.391 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 6200 files added (on-disk size: 34978.6 KB)
+0457.488 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 6300 files added (on-disk size: 34978.6 KB)
+0457.587 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 6400 files added (on-disk size: 34978.6 KB)
+0457.686 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 6500 files added (on-disk size: 34978.6 KB)
+0457.799 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 6600 files added (on-disk size: 34978.6 KB)
+0457.909 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 6700 files added (on-disk size: 34978.6 KB)
+0458.026 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 6800 files added (on-disk size: 34978.6 KB)
+0458.156 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 6900 files added (on-disk size: 34978.6 KB)
+0458.298 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 7000 files added (on-disk size: 34978.6 KB)
+0458.372 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.5 MB, 16588 files batched, 1001 (7038) added so far); re-opening (prior size: 34978.6 KB)
+0487.971 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 7100 files added (on-disk size: 42510.5 KB)
+0488.077 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 7200 files added (on-disk size: 42510.5 KB)
+0488.190 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 7300 files added (on-disk size: 42510.5 KB)
+0488.310 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 7400 files added (on-disk size: 42510.5 KB)
+0488.405 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 7500 files added (on-disk size: 42510.5 KB)
+0488.500 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 7600 files added (on-disk size: 42510.5 KB)
+0488.701 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 7700 files added (on-disk size: 42510.5 KB)
+0488.895 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 7800 files added (on-disk size: 42510.5 KB)
+0489.102 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 7900 files added (on-disk size: 42510.5 KB)
+0489.294 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 8000 files added (on-disk size: 42510.5 KB)
+0489.336 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.7 MB, 16588 files batched, 1001 (8039) added so far); re-opening (prior size: 42510.5 KB)
+0626.862 (0) The time we have been running (626.8) is approaching the resumption interval (576) - increasing resumption interval to 657
+0627.105 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 8100 files added (on-disk size: 45721 KB)
+0627.242 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 8200 files added (on-disk size: 45721 KB)
+0627.385 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 8300 files added (on-disk size: 45721 KB)
+0627.510 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 8400 files added (on-disk size: 45721 KB)
+0627.618 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 8500 files added (on-disk size: 45721 KB)
+0627.750 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 8600 files added (on-disk size: 45721 KB)
+0627.872 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 8700 files added (on-disk size: 45721 KB)
+0627.986 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 8800 files added (on-disk size: 45721 KB)
+0628.110 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 8900 files added (on-disk size: 45721 KB)
+0628.261 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 9000 files added (on-disk size: 45721 KB)
+0628.322 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.7 MB, 16588 files batched, 1001 (9040) added so far); re-opening (prior size: 45721 KB)
+0706.631 (0) The time we have been running (706.6) is approaching the resumption interval (657) - increasing resumption interval to 737
+0706.868 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 9100 files added (on-disk size: 47240.6 KB)
+0706.985 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 9200 files added (on-disk size: 47240.6 KB)
+0707.110 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 9300 files added (on-disk size: 47240.6 KB)
+0707.226 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 9400 files added (on-disk size: 47240.6 KB)
+0707.347 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 9500 files added (on-disk size: 47240.6 KB)
+0707.477 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 9600 files added (on-disk size: 47240.6 KB)
+0707.574 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 9700 files added (on-disk size: 47240.6 KB)
+0707.681 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 9800 files added (on-disk size: 47240.6 KB)
+0707.835 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 9900 files added (on-disk size: 47240.6 KB)
+0707.985 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 10000 files added (on-disk size: 47240.6 KB)
+0708.043 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (5.7 MB, 16588 files batched, 1001 (10041) added so far); re-opening (prior size: 47240.6 KB)
+0796.268 (0) The time we have been running (796.3) is approaching the resumption interval (737) - increasing resumption interval to 827
+0796.550 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 10100 files added (on-disk size: 49034.3 KB)
+0796.685 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 10200 files added (on-disk size: 49034.3 KB)
+0796.800 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 10300 files added (on-disk size: 49034.3 KB)
+0796.931 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 10400 files added (on-disk size: 49034.3 KB)
+0797.056 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 10500 files added (on-disk size: 49034.3 KB)
+0797.197 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 10600 files added (on-disk size: 49034.3 KB)
+0797.331 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 10700 files added (on-disk size: 49034.3 KB)
+0797.482 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 10800 files added (on-disk size: 49034.3 KB)
+0797.611 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 10900 files added (on-disk size: 49034.3 KB)
+0797.740 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 11000 files added (on-disk size: 49034.3 KB)
+0797.797 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (10.8 MB, 16588 files batched, 1001 (11042) added so far); re-opening (prior size: 49034.3 KB)
+0825.191 (0) The time we have been running (825.2) is approaching the resumption interval (827) - increasing resumption interval to 856
+0825.457 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 11100 files added (on-disk size: 52605.1 KB)
+0825.598 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 11200 files added (on-disk size: 52605.1 KB)
+0825.748 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 11300 files added (on-disk size: 52605.1 KB)
+0825.881 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 11400 files added (on-disk size: 52605.1 KB)
+0826.033 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 11500 files added (on-disk size: 52605.1 KB)
+0826.185 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 11600 files added (on-disk size: 52605.1 KB)
+0826.316 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 11700 files added (on-disk size: 52605.1 KB)
+0826.467 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 11800 files added (on-disk size: 52605.1 KB)
+0826.610 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 11900 files added (on-disk size: 52605.1 KB)
+0826.756 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 12000 files added (on-disk size: 52605.1 KB)
+0826.840 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.5 MB, 16588 files batched, 1001 (12043) added so far); re-opening (prior size: 52605.1 KB)
+0830.115 (0) The time we have been running (830.1) is approaching the resumption interval (856) - increasing resumption interval to 861
+0830.394 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 12100 files added (on-disk size: 54624.7 KB)
+0830.546 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 12200 files added (on-disk size: 54624.7 KB)
+0830.696 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 12300 files added (on-disk size: 54624.7 KB)
+0830.817 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 12400 files added (on-disk size: 54624.7 KB)
+0831.002 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 12500 files added (on-disk size: 54624.7 KB)
+0831.205 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 12600 files added (on-disk size: 54624.7 KB)
+0831.396 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 12700 files added (on-disk size: 54624.7 KB)
+0831.514 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 12800 files added (on-disk size: 54624.7 KB)
+0831.634 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 12900 files added (on-disk size: 54624.7 KB)
+0831.742 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 13000 files added (on-disk size: 54624.7 KB)
+0831.789 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14.3 MB, 16588 files batched, 1001 (13044) added so far); re-opening (prior size: 54624.7 KB)
+0837.127 (0) The time we have been running (837.1) is approaching the resumption interval (861) - increasing resumption interval to 868
+0837.522 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 13100 files added (on-disk size: 62483.9 KB)
+0837.686 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 13200 files added (on-disk size: 62483.9 KB)
+0837.837 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 13300 files added (on-disk size: 62483.9 KB)
+0838.008 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 13400 files added (on-disk size: 62483.9 KB)
+0838.333 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 13500 files added (on-disk size: 62483.9 KB)
+0838.492 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 13600 files added (on-disk size: 62483.9 KB)
+0838.610 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 13700 files added (on-disk size: 62483.9 KB)
+0838.712 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 13800 files added (on-disk size: 62483.9 KB)
+0838.847 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 13900 files added (on-disk size: 62483.9 KB)
+0838.967 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 14000 files added (on-disk size: 62483.9 KB)
+0839.017 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.1 MB, 16588 files batched, 1001 (14045) added so far); re-opening (prior size: 62483.9 KB)
+0850.162 (0) The time we have been running (850.1) is approaching the resumption interval (868) - increasing resumption interval to 881
+0850.588 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 14100 files added (on-disk size: 64481.1 KB)
+0850.717 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 14200 files added (on-disk size: 64481.1 KB)
+0850.833 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 14300 files added (on-disk size: 64481.1 KB)
+0850.980 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 14400 files added (on-disk size: 64481.1 KB)
+0851.128 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 14500 files added (on-disk size: 64481.1 KB)
+0851.257 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 14600 files added (on-disk size: 64481.1 KB)
+0851.366 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 14700 files added (on-disk size: 64481.1 KB)
+0851.482 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 14800 files added (on-disk size: 64481.1 KB)
+0851.592 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 14900 files added (on-disk size: 64481.1 KB)
+0851.693 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 15000 files added (on-disk size: 64481.1 KB)
+0851.750 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (2.1 MB, 16588 files batched, 1001 (15046) added so far); re-opening (prior size: 64481.1 KB)
+0854.339 (0) The time we have been running (854.3) is approaching the resumption interval (881) - increasing resumption interval to 885
+0854.644 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 15100 files added (on-disk size: 65291.2 KB)
+0854.779 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 15200 files added (on-disk size: 65291.2 KB)
+0854.897 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 15300 files added (on-disk size: 65291.2 KB)
+0855.021 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 15400 files added (on-disk size: 65291.2 KB)
+0855.152 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 15500 files added (on-disk size: 65291.2 KB)
+0855.256 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 15600 files added (on-disk size: 65291.2 KB)
+0855.374 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 15700 files added (on-disk size: 65291.2 KB)
+0855.489 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 15800 files added (on-disk size: 65291.2 KB)
+0855.591 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 15900 files added (on-disk size: 65291.2 KB)
+0855.692 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 16000 files added (on-disk size: 65291.2 KB)
+0855.747 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (3.9 MB, 16588 files batched, 1001 (16047) added so far); re-opening (prior size: 65291.2 KB)
+0858.561 (0) The time we have been running (858.5) is approaching the resumption interval (885) - increasing resumption interval to 889
+0858.870 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 16100 files added (on-disk size: 66482.7 KB)
+0858.991 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 16200 files added (on-disk size: 66482.7 KB)
+0859.130 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 16300 files added (on-disk size: 66482.7 KB)
+0859.271 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 16400 files added (on-disk size: 66482.7 KB)
+0859.421 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.tmp: 16500 files added (on-disk size: 66482.7 KB)
+0861.749 (0) The time we have been running (861.7) is approaching the resumption interval (889) - increasing resumption interval to 892
+0862.301 (0) Creating zip file manifest (backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.list-temp.tmp)
+0862.499 (0) Successfully created zip file manifest (size: 1528498)
+0864.019 (0) Created plugins zip (0) - 67272.7 KB in 863.3 s (77.9 KB/s) (sha1: f83e1bd488fdf723243a9762c4b6d92700e9ee52, sha256: dcec70d2e7ffb6e075e5017f8cc1af51289474ff903a30b28ac7f30e27a257f8)
+0864.302 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0864.309 (0) No remote despatch: user chose no remote backup service
+0864.317 (0) Recording as successfully uploaded: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip
+0864.332 (0) Deleting zip manifest (backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip.list.tmp)
+0865.096 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0865.122 (0) Number of backup sets in history: 1; groups (db): 1
+0865.128 (0) Examining (for databases) backup set with group_id=0, nonce=6d5239553570, datestamp=1771238070 (Feb 16 2026 10:34:30)
+0865.252 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0865.268 (0) Number of backup sets in history: 1; groups (files): 1
+0865.358 (0) Examining (for files) backup set with nonce=6d5239553570, datestamp=1771238070 (Feb 16 2026 10:34:30)
+0865.358 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0865.363 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0865.460 (0) Beginning creation of dump of themes (split every: 400 MB)
+0866.340 (0) Total entities for the zip file: 56 directories, 460 files (0 skipped as non-modified), 14.4 MB
+0866.442 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0866.670 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0866.917 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0867.220 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0872.328 (0) The time we have been running (872.3) is approaching the resumption interval (892) - increasing resumption interval to 903
+0872.356 (0) Creating zip file manifest (backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-themes.zip.list-temp.tmp)
+0872.370 (0) Successfully created zip file manifest (size: 31716)
+0872.690 (0) Created themes zip (0) - 13473.3 KB in 7.2 s (1868.1 KB/s) (sha1: 5573742d74a1d4eab44ef08950b62a1617b1d4b5, sha256: 7a0561a3189fe19594e2a2a859af97e30022a4d5934d4dd5884bc5a294681323)
+0872.709 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0872.717 (0) No remote despatch: user chose no remote backup service
+0872.722 (0) Recording as successfully uploaded: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-themes.zip
+0872.731 (0) Deleting zip manifest (backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-themes.zip.list.tmp)
+0872.741 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0872.747 (0) Number of backup sets in history: 1; groups (db): 1
+0872.752 (0) Examining (for databases) backup set with group_id=0, nonce=6d5239553570, datestamp=1771238070 (Feb 16 2026 10:34:30)
+0872.756 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0872.762 (0) Number of backup sets in history: 1; groups (files): 1
+0872.767 (0) Examining (for files) backup set with nonce=6d5239553570, datestamp=1771238070 (Feb 16 2026 10:34:30)
+0872.767 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0872.772 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0872.799 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots,wp-staging
+0872.803 (0) Looking for candidates to backup in: C:\Users\User\Local Sites\la-vie-des-plantes\app\public/wp-content/uploads
+0872.808 (0) finding files: 2025: adding to list (1)
+0872.812 (0) finding files: 2026: adding to list (2)
+0872.817 (0) finding files: elementor: adding to list (3)
+0872.821 (0) finding files: fonts: adding to list (4)
+0872.825 (0) finding files: wc-logs: adding to list (5)
+0872.830 (0) finding files: woocommerce-placeholder-100x100.webp: adding to list (6)
+0872.835 (0) finding files: woocommerce-placeholder-1024x1024.webp: adding to list (7)
+0872.841 (0) finding files: woocommerce-placeholder-150x150.webp: adding to list (8)
+0872.846 (0) finding files: woocommerce-placeholder-300x300.webp: adding to list (9)
+0872.850 (0) finding files: woocommerce-placeholder-600x600.webp: adding to list (10)
+0872.859 (0) finding files: woocommerce-placeholder-768x768.webp: adding to list (11)
+0872.864 (0) finding files: woocommerce-placeholder.webp: adding to list (12)
+0872.868 (0) finding files: woocommerce_uploads: adding to list (13)
+0872.873 (0) finding files: woolentor-addons: adding to list (14)
+0872.879 (0) finding files: wpforms: adding to list (15)
+0872.885 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0873.063 (0) Total entities for the zip file: 18 directories, 192 files (0 skipped as non-modified), 11.4 MB
+0873.161 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0873.839 (0) The time we have been running (873.8) is approaching the resumption interval (903) - increasing resumption interval to 904
+0873.869 (0) Creating zip file manifest (backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-uploads.zip.list-temp.tmp)
+0873.877 (0) Successfully created zip file manifest (size: 11317)
+0874.108 (0) Created uploads zip (0) - 9553.8 KB in 1.2 s (7899.3 KB/s) (sha1: 993717fe8bf5a0d7e833611db9135ea2d9d80494, sha256: 8006189945a8e8d7bb75a9349f53d783a9ed160ceb9b9c9ad6e17bd713ce68f9)
+0874.128 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0874.132 (0) No remote despatch: user chose no remote backup service
+0874.138 (0) Recording as successfully uploaded: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-uploads.zip
+0874.149 (0) Deleting zip manifest (backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-uploads.zip.list.tmp)
+0874.159 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0874.166 (0) Number of backup sets in history: 1; groups (db): 1
+0874.170 (0) Examining (for databases) backup set with group_id=0, nonce=6d5239553570, datestamp=1771238070 (Feb 16 2026 10:34:30)
+0874.170 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0874.175 (0) Number of backup sets in history: 1; groups (files): 1
+0874.180 (0) Examining (for files) backup set with nonce=6d5239553570, datestamp=1771238070 (Feb 16 2026 10:34:30)
+0874.180 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0874.184 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0874.205 (0) No backup of mu-plugins: excluded by user's options
+0874.222 (0) Beginning backup of other directories found in the content directory (index: 0)
+0874.230 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0874.235 (0) Looking for candidates to backup in: C:\Users\User\Local Sites\la-vie-des-plantes\app\public/wp-content
+0874.241 (0) finding files: backups-dup-lite: skipping: excluded by options (glob)
+0874.245 (0) finding files: index.php: adding to list (1)
+0874.250 (0) finding files: languages: adding to list (2)
+0874.256 (0) finding files: plugins: skipping: this is the plugins directory
+0874.261 (0) finding files: themes: skipping: this is the themes directory
+0874.265 (0) finding files: updraft: skipping: this is the updraft directory
+0874.272 (0) finding files: upgrade: skipping: excluded by options
+0874.276 (0) finding files: upgrade-temp-backup: adding to list (3)
+0874.281 (0) finding files: uploads: skipping: this is the uploads directory
+0874.697 (0) Total entities for the zip file: 4 directories, 525 files (0 skipped as non-modified), 13.7 MB
+0874.798 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0874.886 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0874.980 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0875.062 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0875.148 (0) Zip: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+0877.691 (0) The time we have been running (877.7) is approaching the resumption interval (904) - increasing resumption interval to 908
+0877.730 (0) Creating zip file manifest (backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-others.zip.list-temp.tmp)
+0877.739 (0) Successfully created zip file manifest (size: 41553)
+0877.823 (0) Created others zip (0) - 4060.2 KB in 3.5 s (1151.1 KB/s) (sha1: 5cb7a635a5da64a0ddfc3b3182554c9408286906, sha256: 78f16c30092e15583aad9bfcf7684ac7e4a9551f092a46f7b475817339f7c317)
+0877.841 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0877.845 (0) No remote despatch: user chose no remote backup service
+0877.850 (0) Recording as successfully uploaded: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-others.zip
+0877.859 (0) Deleting zip manifest (backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-others.zip.list.tmp)
+0877.870 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0877.877 (0) Number of backup sets in history: 1; groups (db): 1
+0877.882 (0) Examining (for databases) backup set with group_id=0, nonce=6d5239553570, datestamp=1771238070 (Feb 16 2026 10:34:30)
+0877.886 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0877.892 (0) Number of backup sets in history: 1; groups (files): 1
+0877.897 (0) Examining (for files) backup set with nonce=6d5239553570, datestamp=1771238070 (Feb 16 2026 10:34:30)
+0877.897 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0877.902 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0877.938 (0) Saving backup status to database (elements: 8)
+0877.948 (0) Beginning creation of database dump (WordPress DB)
+0877.955 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,ERROR_FOR_DIVISION_BY_ZERO,NO_ENGINE_SUBSTITUTION
+0878.048 (0) Table wp_options: Total expected rows (via COUNT): 584
+0878.140 (0) Table wp_options: Rows added in this batch (next record: 2757): 580 (uncompressed bytes in this segment=2227595) in 0.14 seconds
+0878.168 (0) The time we have been running (878.2) is approaching the resumption interval (908) - increasing resumption interval to 909
+0878.186 (0) Table wp_options: finishing file(s) (2, 280.8 KB)
+0878.208 (0) Table wp_users: Total expected rows (via COUNT): 1
+0878.213 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0878.226 (0) Table wp_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1452) in 0.03 seconds
+0878.247 (0) Table wp_users: finishing file(s) (2, 0.6 KB)
+0878.275 (0) Table wp_usermeta: Total expected rows (via COUNT): 42
+0878.280 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0878.292 (0) Table wp_usermeta: Rows added in this batch (next record: 59): 42 (uncompressed bytes in this segment=4654) in 0.03 seconds
+0878.315 (0) Table wp_usermeta: finishing file(s) (2, 2.1 KB)
+0878.343 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 153
+0878.350 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0878.367 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 299): 153 (uncompressed bytes in this segment=68352) in 0.04 seconds
+0878.392 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 5.9 KB)
+0878.419 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0878.440 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=621) in 0.03 seconds
+0878.464 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0878.489 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 9
+0878.494 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0878.511 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 9): 9 (uncompressed bytes in this segment=870) in 0.03 seconds
+0878.544 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0878.570 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 421
+0878.575 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0878.594 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 790): 421 (uncompressed bytes in this segment=39095) in 0.03 seconds
+0878.623 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 4.3 KB)
+0878.653 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0878.667 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=677) in 0.03 seconds
+0878.693 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0878.723 (0) Table wp_comments: Total expected rows (via COUNT): 0
+0878.733 (0) Table wp_comments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1857) in 0.03 seconds
+0878.754 (0) Table wp_comments: finishing file(s) (2, 0.5 KB)
+0878.780 (0) Table wp_links: Total expected rows (via COUNT): 0
+0878.786 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1298) in 0.02 seconds
+0878.813 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0878.865 (0) Table wp_postmeta: Total expected rows (via COUNT): 532
+0878.869 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0878.897 (0) Table wp_postmeta: Rows added in this batch (next record: 1077): 532 (uncompressed bytes in this segment=227455) in 0.06 seconds
+0878.930 (0) Table wp_postmeta: finishing file(s) (2, 13.9 KB)
+0878.989 (0) Table wp_posts: Total expected rows (via COUNT): 173
+0878.994 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0879.035 (0) Table wp_posts: Rows added in this batch (next record: 230): 173 (uncompressed bytes in this segment=432802) in 0.08 seconds
+0879.064 (0) The time we have been running (879) is approaching the resumption interval (909) - increasing resumption interval to 910
+0879.087 (0) Table wp_posts: finishing file(s) (2, 29.9 KB)
+0879.108 (0) Table wp_term_relationships: Total expected rows (approximate): 17
+0879.121 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 19 (uncompressed bytes in this segment=951) in 0.02 seconds
+0879.143 (0) Table wp_term_relationships: finishing file(s) (2, 0.4 KB)
+0879.172 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 21
+0879.176 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0879.190 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 21): 21 (uncompressed bytes in this segment=1706) in 0.03 seconds
+0879.215 (0) Table wp_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0879.250 (0) Table wp_termmeta: Total expected rows (via COUNT): 3
+0879.255 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0879.259 (0) Table wp_termmeta: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=812) in 0.03 seconds
+0879.289 (0) Table wp_termmeta: finishing file(s) (2, 0.4 KB)
+0879.315 (0) Table wp_terms: Total expected rows (via COUNT): 21
+0879.320 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0879.326 (0) Table wp_terms: Rows added in this batch (next record: 21): 21 (uncompressed bytes in this segment=1503) in 0.02 seconds
+0879.343 (0) Table wp_terms: finishing file(s) (2, 0.7 KB)
+0879.362 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 2
+0879.373 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 2 (uncompressed bytes in this segment=592) in 0.02 seconds
+0879.392 (0) Table wp_wc_category_lookup: finishing file(s) (2, 0.3 KB)
+0879.435 (0) Table wp_wc_product_meta_lookup: Total expected rows (via COUNT): 4
+0879.440 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0879.450 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 217): 4 (uncompressed bytes in this segment=1874) in 0.03 seconds
+0879.470 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 0.6 KB)
+0879.492 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0879.507 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=657) in 0.02 seconds
+0879.530 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0879.554 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0879.559 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0879.572 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=808) in 0.03 seconds
+0879.593 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0879.643 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 0
+0879.655 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=781) in 0.05 seconds
+0879.691 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.4 KB)
+0879.729 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0879.737 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=790) in 0.03 seconds
+0879.769 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0879.803 (0) Table wp_duplicator_packages: Total expected rows (via COUNT): 1
+0879.807 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0879.820 (0) Table wp_duplicator_packages: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=23806) in 0.03 seconds
+0879.852 (0) Table wp_duplicator_packages: finishing file(s) (2, 5.7 KB)
+0879.876 (0) Table wp_e_events: Total expected rows (via COUNT): 11
+0879.880 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0879.886 (0) Table wp_e_events: Rows added in this batch (next record: 11): 11 (uncompressed bytes in this segment=2668) in 0.02 seconds
+0879.909 (0) Table wp_e_events: finishing file(s) (2, 0.6 KB)
+0879.942 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 90
+0879.948 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0879.962 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 2550): 90 (uncompressed bytes in this segment=17345) in 0.03 seconds
+0880.000 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 3.1 KB)
+0880.029 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 64
+0880.034 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0880.043 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 64): 64 (uncompressed bytes in this segment=32318) in 0.03 seconds
+0880.076 (0) The time we have been running (880.1) is approaching the resumption interval (910) - increasing resumption interval to 911
+0880.096 (0) Table wp_wc_admin_notes: finishing file(s) (2, 7.6 KB)
+0880.124 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 0
+0880.138 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1275) in 0.02 seconds
+0880.166 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.5 KB)
+0880.191 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0880.197 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=735) in 0.01 seconds
+0880.219 (0) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+0880.250 (0) Table wp_wc_order_addresses: Total expected rows (via COUNT): 0
+0880.256 (0) Table wp_wc_order_addresses: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1322) in 0.02 seconds
+0880.283 (0) Table wp_wc_order_addresses: finishing file(s) (2, 0.5 KB)
+0880.307 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0880.314 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=709) in 0.01 seconds
+0880.339 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0880.364 (0) Table wp_wc_order_operational_data: Total expected rows (via COUNT): 0
+0880.372 (0) Table wp_wc_order_operational_data: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1532) in 0.02 seconds
+0880.397 (0) Table wp_wc_order_operational_data: finishing file(s) (2, 0.6 KB)
+0880.424 (0) Table wp_wc_order_product_lookup: Total expected rows (approximate): 0
+0880.431 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=1285) in 0.02 seconds
+0880.455 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.5 KB)
+0880.478 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 0
+0880.484 (0) Table wp_wc_order_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1285) in 0.01 seconds
+0880.508 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.5 KB)
+0880.529 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0880.537 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=791) in 0.01 seconds
+0880.560 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0880.586 (0) Table wp_wc_orders: Total expected rows (via COUNT): 0
+0880.591 (0) Table wp_wc_orders: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1676) in 0.01 seconds
+0880.622 (0) Table wp_wc_orders: finishing file(s) (2, 0.6 KB)
+0880.643 (0) Table wp_wc_orders_meta: Total expected rows (via COUNT): 0
+0880.653 (0) Table wp_wc_orders_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=761) in 0.02 seconds
+0880.677 (0) Table wp_wc_orders_meta: finishing file(s) (2, 0.4 KB)
+0880.692 (0) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0880.704 (0) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=850) in 0.01 seconds
+0880.724 (0) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0880.748 (0) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 2
+0880.753 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0880.766 (0) Table wp_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=949) in 0.03 seconds
+0880.787 (0) Table wp_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0880.810 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0880.821 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=688) in 0.02 seconds
+0880.846 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0880.873 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0880.878 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1215) in 0.02 seconds
+0880.903 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0880.936 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 0
+0880.941 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1038) in 0.02 seconds
+0880.971 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.5 KB)
+0880.992 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0880.999 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=954) in 0.01 seconds
+0881.019 (0) The time we have been running (881) is approaching the resumption interval (911) - increasing resumption interval to 912
+0881.037 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0881.064 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0881.069 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1562) in 0.02 seconds
+0881.103 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0881.130 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0881.136 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=715) in 0.02 seconds
+0881.172 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0881.194 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 0
+0881.200 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=749) in 0.01 seconds
+0881.225 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.4 KB)
+0881.255 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0881.261 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=833) in 0.01 seconds
+0881.283 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0881.310 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 1
+0881.317 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0881.332 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: 30): 1 (uncompressed bytes in this segment=1660) in 0.03 seconds
+0881.361 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 0.7 KB)
+0881.388 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 1
+0881.393 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0881.401 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=961) in 0.02 seconds
+0881.439 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0881.466 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 2
+0881.470 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0881.476 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=894) in 0.02 seconds
+0881.502 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0881.524 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 1
+0881.529 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0881.535 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=712) in 0.02 seconds
+0881.558 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0881.583 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0881.593 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=840) in 0.02 seconds
+0881.617 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0881.641 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 1
+0881.647 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0881.657 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1402) in 0.02 seconds
+0881.681 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0881.711 (0) Table wp_woolentor_abandoned_cart: Total expected rows (via COUNT): 0
+0881.722 (0) Table wp_woolentor_abandoned_cart: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1397) in 0.03 seconds
+0881.750 (0) Table wp_woolentor_abandoned_cart: finishing file(s) (2, 0.5 KB)
+0881.784 (0) Table wp_woolentor_abandoned_cart_email_logs: Total expected rows (via COUNT): 0
+0881.789 (0) Table wp_woolentor_abandoned_cart_email_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1048) in 0.02 seconds
+0881.818 (0) Table wp_woolentor_abandoned_cart_email_logs: finishing file(s) (2, 0.5 KB)
+0881.850 (0) Table wp_woolentor_abandoned_cart_email_templates: Total expected rows (via COUNT): 3
+0881.855 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0881.867 (0) Table wp_woolentor_abandoned_cart_email_templates: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=2959) in 0.03 seconds
+0881.896 (0) Table wp_woolentor_abandoned_cart_email_templates: finishing file(s) (2, 0.8 KB)
+0881.925 (0) Table wp_wpforms_logs: Total expected rows (via COUNT): 0
+0881.940 (0) Table wp_wpforms_logs: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=736) in 0.03 seconds
+0881.977 (0) Table wp_wpforms_logs: finishing file(s) (2, 0.4 KB)
+0882.005 (0) Table wp_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0882.016 (0) Table wp_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=731) in 0.02 seconds
+0882.046 (0) The time we have been running (882) is approaching the resumption interval (912) - increasing resumption interval to 913
+0882.069 (0) Table wp_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0882.091 (0) Table wp_wpforms_payments: Total expected rows (via COUNT): 0
+0882.101 (0) Table wp_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1958) in 0.02 seconds
+0882.122 (0) Table wp_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0882.153 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 5
+0882.158 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0882.168 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 7): 5 (uncompressed bytes in this segment=1037) in 0.03 seconds
+0882.196 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.5 KB)
+0882.227 (0) Table wp_yoast_indexable: Total expected rows (via COUNT): 0
+0882.237 (0) Table wp_yoast_indexable: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=3807) in 0.03 seconds
+0882.265 (0) Table wp_yoast_indexable: finishing file(s) (2, 1 KB)
+0882.282 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 0
+0882.287 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=734) in 0.01 seconds
+0882.307 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 0.4 KB)
+0882.327 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 25
+0882.331 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0882.342 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 25): 25 (uncompressed bytes in this segment=1245) in 0.02 seconds
+0882.366 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0882.382 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 0
+0882.392 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=842) in 0.01 seconds
+0882.414 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.4 KB)
+0882.435 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 0
+0882.441 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1038) in 0.01 seconds
+0882.459 (0) Table wp_yoast_seo_links: finishing file(s) (2, 0.4 KB)
+0882.466 (0) PHP event: code E_WARNING: filemtime(): stat failed for C:\Users\User\Local Sites\la-vie-des-plantes\app\public/wp-content/updraft/backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db.gz (line 1923, C:\Users\User\Local Sites\la-vie-des-plantes\app\public\wp-content\plugins\updraftplus\backup.php)
+0882.478 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_options.table.tmpr2758.gz (1/64/fopen): adding to final database dump
+0882.501 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_options.table.gz (2/64/fopen): adding to final database dump
+0882.505 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_users.table.tmpr2.gz (3/64/fopen): adding to final database dump
+0882.510 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_users.table.gz (4/64/fopen): adding to final database dump
+0882.514 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_usermeta.table.tmpr60.gz (5/64/fopen): adding to final database dump
+0882.519 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_usermeta.table.gz (6/64/fopen): adding to final database dump
+0882.523 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_actionscheduler_actions.table.tmpr300.gz (7/64/fopen): adding to final database dump
+0882.528 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_actionscheduler_actions.table.gz (8/64/fopen): adding to final database dump
+0882.534 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/64/fopen): adding to final database dump
+0882.539 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_actionscheduler_claims.table.gz (10/64/fopen): adding to final database dump
+0882.543 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_actionscheduler_groups.table.tmpr10.gz (11/64/fopen): adding to final database dump
+0882.548 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_actionscheduler_groups.table.gz (12/64/fopen): adding to final database dump
+0882.552 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_actionscheduler_logs.table.tmpr791.gz (13/64/fopen): adding to final database dump
+0882.558 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_actionscheduler_logs.table.gz (14/64/fopen): adding to final database dump
+0882.561 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_commentmeta.table.tmpr0.gz (15/64/fopen): adding to final database dump
+0882.566 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_commentmeta.table.gz (16/64/fopen): adding to final database dump
+0882.570 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_comments.table.tmpr0.gz (17/64/fopen): adding to final database dump
+0882.575 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_comments.table.gz (18/64/fopen): adding to final database dump
+0882.581 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_links.table.tmpr0.gz (19/64/fopen): adding to final database dump
+0882.586 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_links.table.gz (20/64/fopen): adding to final database dump
+0882.591 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_postmeta.table.tmpr1078.gz (21/64/fopen): adding to final database dump
+0882.597 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_postmeta.table.gz (22/64/fopen): adding to final database dump
+0882.602 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_posts.table.tmpr231.gz (23/64/fopen): adding to final database dump
+0882.610 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_posts.table.gz (24/64/fopen): adding to final database dump
+0882.614 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_term_relationships.table.tmpr100001.gz (25/64/fopen): adding to final database dump
+0882.620 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_term_relationships.table.gz (26/64/fopen): adding to final database dump
+0882.625 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_term_taxonomy.table.tmpr22.gz (27/64/fopen): adding to final database dump
+0882.631 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_term_taxonomy.table.gz (28/64/fopen): adding to final database dump
+0882.635 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_termmeta.table.tmpr4.gz (29/64/fopen): adding to final database dump
+0882.639 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_termmeta.table.gz (30/64/fopen): adding to final database dump
+0882.643 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_terms.table.tmpr22.gz (31/64/fopen): adding to final database dump
+0882.649 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_terms.table.gz (32/64/fopen): adding to final database dump
+0882.654 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_category_lookup.table.tmpr1001.gz (33/64/fopen): adding to final database dump
+0882.660 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_category_lookup.table.gz (34/64/fopen): adding to final database dump
+0882.664 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_product_meta_lookup.table.tmpr218.gz (35/64/fopen): adding to final database dump
+0882.670 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_product_meta_lookup.table.gz (36/64/fopen): adding to final database dump
+0882.675 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_reserved_stock.table.tmpr1.gz (37/64/fopen): adding to final database dump
+0882.681 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_reserved_stock.table.gz (38/64/fopen): adding to final database dump
+0882.685 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (39/64/fopen): adding to final database dump
+0882.691 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_tax_rate_classes.table.gz (40/64/fopen): adding to final database dump
+0882.696 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_order_itemmeta.table.tmpr0.gz (41/64/fopen): adding to final database dump
+0882.701 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_order_itemmeta.table.gz (42/64/fopen): adding to final database dump
+0882.705 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (43/64/fopen): adding to final database dump
+0882.710 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_payment_tokenmeta.table.gz (44/64/fopen): adding to final database dump
+0882.715 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_duplicator_packages.table.tmpr2.gz (45/64/fopen): adding to final database dump
+0882.721 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_duplicator_packages.table.gz (46/64/fopen): adding to final database dump
+0882.726 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_e_events.table.tmpr12.gz (47/64/fopen): adding to final database dump
+0882.731 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_e_events.table.gz (48/64/fopen): adding to final database dump
+0882.736 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_admin_note_actions.table.tmpr2551.gz (49/64/fopen): adding to final database dump
+0882.741 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_admin_note_actions.table.gz (50/64/fopen): adding to final database dump
+0882.746 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_admin_notes.table.tmpr65.gz (51/64/fopen): adding to final database dump
+0882.753 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_admin_notes.table.gz (52/64/fopen): adding to final database dump
+0882.759 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_customer_lookup.table.tmpr0.gz (53/64/fopen): adding to final database dump
+0882.766 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_customer_lookup.table.gz (54/64/fopen): adding to final database dump
+0882.770 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_download_log.table.tmpr0.gz (55/64/fopen): adding to final database dump
+0882.776 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_download_log.table.gz (56/64/fopen): adding to final database dump
+0882.783 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_order_addresses.table.tmpr0.gz (57/64/fopen): adding to final database dump
+0882.788 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_order_addresses.table.gz (58/64/fopen): adding to final database dump
+0882.794 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (59/64/fopen): adding to final database dump
+0882.800 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_order_coupon_lookup.table.gz (60/64/fopen): adding to final database dump
+0882.805 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_order_operational_data.table.tmpr0.gz (61/64/fopen): adding to final database dump
+0882.810 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_order_operational_data.table.gz (62/64/fopen): adding to final database dump
+0882.814 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_order_product_lookup.table.tmpr1.gz (63/64/fopen): adding to final database dump
+0882.819 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_order_product_lookup.table.gz (64/64/fopen): adding to final database dump
+0882.824 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_order_stats.table.tmpr0.gz (65/64/fopen): adding to final database dump
+0882.829 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_order_stats.table.gz (66/64/fopen): adding to final database dump
+0882.834 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (67/64/fopen): adding to final database dump
+0882.840 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_order_tax_lookup.table.gz (68/64/fopen): adding to final database dump
+0882.845 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_orders.table.tmpr0.gz (69/64/fopen): adding to final database dump
+0882.851 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_orders.table.gz (70/64/fopen): adding to final database dump
+0882.857 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_orders_meta.table.tmpr0.gz (71/64/fopen): adding to final database dump
+0882.862 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_orders_meta.table.gz (72/64/fopen): adding to final database dump
+0882.867 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_product_attributes_lookup.table.tmpr1.gz (73/64/fopen): adding to final database dump
+0882.873 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_product_attributes_lookup.table.gz (74/64/fopen): adding to final database dump
+0882.879 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_product_download_directories.table.tmpr3.gz (75/64/fopen): adding to final database dump
+0882.884 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_product_download_directories.table.gz (76/64/fopen): adding to final database dump
+0882.889 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_rate_limits.table.tmpr0.gz (77/64/fopen): adding to final database dump
+0882.894 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_rate_limits.table.gz (78/64/fopen): adding to final database dump
+0882.898 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_webhooks.table.tmpr0.gz (79/64/fopen): adding to final database dump
+0882.905 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wc_webhooks.table.gz (80/64/fopen): adding to final database dump
+0882.909 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_api_keys.table.tmpr0.gz (81/64/fopen): adding to final database dump
+0882.914 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_api_keys.table.gz (82/64/fopen): adding to final database dump
+0882.921 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (83/64/fopen): adding to final database dump
+0882.926 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_attribute_taxonomies.table.gz (84/64/fopen): adding to final database dump
+0882.930 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (85/64/fopen): adding to final database dump
+0882.935 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (86/64/fopen): adding to final database dump
+0882.940 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_log.table.tmpr0.gz (87/64/fopen): adding to final database dump
+0882.945 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_log.table.gz (88/64/fopen): adding to final database dump
+0882.949 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_order_items.table.tmpr0.gz (89/64/fopen): adding to final database dump
+0882.954 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_order_items.table.gz (90/64/fopen): adding to final database dump
+0882.959 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (91/64/fopen): adding to final database dump
+0882.964 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_payment_tokens.table.gz (92/64/fopen): adding to final database dump
+0882.970 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_sessions.table.tmpr31.gz (93/64/fopen): adding to final database dump
+0882.975 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_sessions.table.gz (94/64/fopen): adding to final database dump
+0882.981 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr2.gz (95/64/fopen): adding to final database dump
+0882.985 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_shipping_zone_locations.table.gz (96/64/fopen): adding to final database dump
+0882.990 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr3.gz (97/64/fopen): adding to final database dump
+0882.998 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_shipping_zone_methods.table.gz (98/64/fopen): adding to final database dump
+0883.005 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_shipping_zones.table.tmpr2.gz (99/64/fopen): adding to final database dump
+0883.035 (0) The time we have been running (883) is approaching the resumption interval (913) - increasing resumption interval to 914
+0883.048 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_shipping_zones.table.gz (100/64/fopen): adding to final database dump
+0883.056 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (101/64/fopen): adding to final database dump
+0883.066 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_tax_rate_locations.table.gz (102/64/fopen): adding to final database dump
+0883.073 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_tax_rates.table.tmpr2.gz (103/64/fopen): adding to final database dump
+0883.081 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woocommerce_tax_rates.table.gz (104/64/fopen): adding to final database dump
+0883.088 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woolentor_abandoned_cart.table.tmpr0.gz (105/64/fopen): adding to final database dump
+0883.097 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woolentor_abandoned_cart.table.gz (106/64/fopen): adding to final database dump
+0883.105 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woolentor_abandoned_cart_email_logs.table.tmpr0.gz (107/64/fopen): adding to final database dump
+0883.116 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woolentor_abandoned_cart_email_logs.table.gz (108/64/fopen): adding to final database dump
+0883.125 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woolentor_abandoned_cart_email_templates.table.tmpr4.gz (109/64/fopen): adding to final database dump
+0883.131 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_woolentor_abandoned_cart_email_templates.table.gz (110/64/fopen): adding to final database dump
+0883.137 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wpforms_logs.table.tmpr0.gz (111/64/fopen): adding to final database dump
+0883.143 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wpforms_logs.table.gz (112/64/fopen): adding to final database dump
+0883.148 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wpforms_payment_meta.table.tmpr0.gz (113/64/fopen): adding to final database dump
+0883.155 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wpforms_payment_meta.table.gz (114/64/fopen): adding to final database dump
+0883.160 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wpforms_payments.table.tmpr0.gz (115/64/fopen): adding to final database dump
+0883.167 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wpforms_payments.table.gz (116/64/fopen): adding to final database dump
+0883.172 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wpforms_tasks_meta.table.tmpr8.gz (117/64/fopen): adding to final database dump
+0883.177 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_wpforms_tasks_meta.table.gz (118/64/fopen): adding to final database dump
+0883.181 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_yoast_indexable.table.tmpr0.gz (119/64/fopen): adding to final database dump
+0883.187 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_yoast_indexable.table.gz (120/64/fopen): adding to final database dump
+0883.192 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_yoast_indexable_hierarchy.table.tmpr1.gz (121/64/fopen): adding to final database dump
+0883.198 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_yoast_indexable_hierarchy.table.gz (122/64/fopen): adding to final database dump
+0883.202 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_yoast_migrations.table.tmpr26.gz (123/64/fopen): adding to final database dump
+0883.207 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_yoast_migrations.table.gz (124/64/fopen): adding to final database dump
+0883.211 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_yoast_primary_term.table.tmpr0.gz (125/64/fopen): adding to final database dump
+0883.216 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_yoast_primary_term.table.gz (126/64/fopen): adding to final database dump
+0883.244 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_yoast_seo_links.table.tmpr0.gz (127/64/fopen): adding to final database dump
+0883.250 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db-table-wp_yoast_seo_links.table.gz (128/64/fopen): adding to final database dump
+0883.285 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db.gz: finished writing out complete database file (379.3 KB)
+0883.446 (0) Total database tables backed up: 64 (backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db.gz, size: 388475, sha1: 3a7da9dc6c0158e5d249009b3237f6e34ca2c419, sha256: adb16c6262d4bdec74a021178c3b9288b19f8c3a6080b357c811acb1cb230499)
+0883.550 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-plugins.zip: plugins: This file has already been successfully processed
+0883.554 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-themes.zip: themes: This file has already been successfully processed
+0883.559 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-uploads.zip: uploads: This file has already been successfully processed
+0883.586 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-others.zip: others: This file has already been successfully processed
+0883.592 (0) backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db.gz: db: This file has not yet been successfully uploaded: will queue
+0883.598 (0) Saving backup history. Total backup size: 92.5 MB
+0883.610 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0883.674 (0) Cloud backup selection (1/1): none with instance (1/1) (last)
+0883.678 (0) No remote despatch: user chose no remote backup service
+0883.684 (0) Recording as successfully uploaded: backup_2026-02-16-1942_La_vie_des_plantes_f1922c68d8f6-db.gz
+0883.715 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0883.720 (0) Number of backup sets in history: 2; groups (db): 1
+0883.725 (0) Examining (for databases) backup set with group_id=0, nonce=f1922c68d8f6, datestamp=1771242157 (Feb 16 2026 11:42:37)
+0883.729 (0) This backup set is the backup set just made, so will not be deleted.
+0883.729 (0) Examining (for databases) backup set with group_id=0, nonce=6d5239553570, datestamp=1771238070 (Feb 16 2026 10:34:30)
+0883.730 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0883.734 (0) Number of backup sets in history: 2; groups (files): 1
+0883.739 (0) Examining (for files) backup set with nonce=f1922c68d8f6, datestamp=1771242157 (Feb 16 2026 11:42:37)
+0883.739 (0) This backup set is the backup set just made, so will not be deleted.
+0883.744 (0) This backup set is the backup set just made, so will not be deleted.
+0883.745 (0) This backup set is the backup set just made, so will not be deleted.
+0883.745 (0) This backup set is the backup set just made, so will not be deleted.
+0883.745 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0883.750 (0) Examining (for files) backup set with nonce=6d5239553570, datestamp=1771238070 (Feb 16 2026 10:34:30)
+0883.750 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0883.750 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0883.760 (0) Resume backup (f1922c68d8f6, 0): finish run
+0883.775 (0) Decremented the semaphore (fd) by 1
+0883.784 (0) Semaphore (fd) unlocked
+0883.790 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0883.805 (0) The backup succeeded and is now complete
+0883.811 (0) No email will/can be sent - the user has not configured an email address.
+0883.816 (0) La sauvegarde a réussi et est maintenant terminée
